@@ -1373,7 +1373,7 @@
             "dist": {
                 "type": "path",
                 "url": "/home/sylver/Code/Scool/curriculum",
-                "reference": "fc964d780e14413ff257deffc879ac0a6812bb33",
+                "reference": "48e18fc0315643e723d2be56a41e9d6263dbc7e0",
                 "shasum": null
             },
             "require": {
